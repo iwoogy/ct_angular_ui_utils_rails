@@ -1,0 +1,10 @@
+---
+module:
+  name: "ui.utils'"
+uis:
+  - name: ui-utils'
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
